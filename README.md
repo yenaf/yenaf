@@ -13,9 +13,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![소개](https://github.com/user-attachments/assets/e3d3ca5b-86e7-4591-b8b8-dc0a4b725df3)
+![yenaf's GitHub](https://github.com/user-attachments/assets/28b4e82a-99da-43b5-9ffe-c8f657168a48)
 
-![yenaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yenaf&show_icons=true&theme=radical&count_private=true)
+<!-- ```javascript
+const profile = {
+  name: '강예나',
+  email: 'spffhd0835@gmail.com',
+  locate: 'Seoul Korea',
+  skill: ['HTML', 'CSS', 'Javascript', 'React', 'Git', 'SASS', 'NPM'],
+  opend: true,
+  update: '2024-10-18',
+  call: () => {
+    ui.alert('궁금한 점이 있으시면 이메일로 편하게 연락해 주세요!');
+  },
+};
+``` -->
+
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=yenaf&show_icons=true&theme=radical&count_private=true" title="yenaf's GitHub stats"/ >
+</div>
 
 <h3 align="center">⚡ Tech Stack ⚡</h3>
 <!-- react, javascript, html -->
